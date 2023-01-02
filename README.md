@@ -1,11 +1,11 @@
 ## :purple_heart: Valerie Lovell :purple_heart:
 Experienced in Python, JS, and creating desktop applications that help people get stuff done! :boom:
 
-## Skills                             ![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlovell24&show_icons=true&theme=transparent)<br>
+## Skills
 - Python :snake:
 - HTML/CSS/Javascript
 - C
-- Application Development/Focus on Native Applications for Windows :computer:
+- Application Development/Focus on Native Applications for Windows :computer: ![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlovell24&show_icons=true&theme=transparent)<br>
 
 ## Projects
 - PDF Parser with Syntax Highlighting and Page Retrieval :page_with_curl:
