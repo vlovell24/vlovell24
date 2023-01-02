@@ -14,8 +14,11 @@ Experienced in Python, JS, and creating desktop applications that help people ge
 - Excel Sheet Formatting with Python (adding new cells/rows, styling, and updating all current data) :bar_chart:
 - More Coming Soon :blue_heart:
 
+
+
 ##### "I learned very early the difference between knowing the name of something and knowing something."
-######                                                                          - Richard P. Feynman
+######                                                                          - Richard P. Feynman :older_man:
+
 
 
 
