@@ -1,5 +1,5 @@
-## Valerie Lovell
-Experienced in Python, JS, and creating desktop applications that help people get stuff done!
+## :purple_heart: Valerie Lovell :purple_heart:
+Experienced in Python, JS, and creating desktop applications that help people get stuff done! :boom:
 
 ## Skills
 - Python :snake:
