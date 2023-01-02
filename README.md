@@ -13,7 +13,8 @@ Experienced in Python, JS, and creating desktop applications that help people ge
 - HEX File(Intel) Parser with Header and CRC Decoder :page_facing_up:
 - Excel Sheet Formatting with Python (adding new cells/rows, styling, and updating all current data) :bar_chart:
 - More Coming Soon :blue_heart:
-
+<br>
+<br>
 
 
 ##### *"I learned very early the difference between knowing the name of something and knowing something."*
