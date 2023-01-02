@@ -16,7 +16,7 @@ Experienced in Python, JS, and creating desktop applications that help people ge
 
 
 
-##### **"I learned very early the difference between knowing the name of something and knowing something."**
+##### *"I learned very early the difference between knowing the name of something and knowing something."*
 ######                                                                          - Richard P. Feynman :older_man:
 
 
