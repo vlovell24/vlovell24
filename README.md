@@ -5,13 +5,13 @@ Experienced in Python, JS, and creating desktop applications that help people ge
 - Python :snake:
 - HTML/CSS/Javascript
 - C
-- Application Development/Focus on Native Applications for Windows
+- Application Development/Focus on Native Applications for Windows :computer:
 
 ## Projects
-- PDF Parser with Syntax Highlighting and Page Retrieval
-- Card Flip Matching Game in HTML/CSS/Javascript
-- HEX File(Intel) Parser with Header and CRC Decoder
-- Excel Sheet Formatting with Python (adding new cells/rows, styling, and updating all current data)
+- PDF Parser with Syntax Highlighting and Page Retrieval :page_with_curl:
+- Card Flip Matching Game in HTML/CSS/Javascript :video_game:
+- HEX File(Intel) Parser with Header and CRC Decoder :page_facing_up:
+- Excel Sheet Formatting with Python (adding new cells/rows, styling, and updating all current data) :bar_chart:
 - More Coming Soon :blue_heart:
 
 
