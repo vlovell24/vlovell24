@@ -5,8 +5,7 @@ Experienced in Python, JS, and creating desktop applications that help people ge
 - Python :snake:
 - HTML/CSS/Javascript
 - C
-- Application Development/Focus on Native Applications for Windows :computer: ![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlovell24&show_icons=true&theme=transparent)<br>
-
+- Application Development/Focus on Native Applications for Windows :computer: 
 ## Projects
 - PDF Parser with Syntax Highlighting and Page Retrieval :page_with_curl:
 - Card Flip Matching Game in HTML/CSS/Javascript :video_game:
@@ -18,9 +17,7 @@ Experienced in Python, JS, and creating desktop applications that help people ge
 
 ##### *"I learned very early the difference between knowing the name of something and knowing something."*
 ######                                                                          **- Richard P. Feynman** :older_man:
-
-
-
+<br>
 
 ![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlovell24&show_icons=true&theme=transparent)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlovell24&theme=transparent)](https://github.com/vlovell24/github-readme-stats)
