@@ -11,6 +11,7 @@ Experienced in Python, JS, and creating desktop applications that help people ge
 - Card Flip Matching Game in HTML/CSS/Javascript :video_game:
 - HEX File(Intel) Parser with Header and CRC Decoder :page_facing_up:
 - Excel Sheet Formatting with Python (adding new cells/rows, styling, and updating all current data) :bar_chart:
+- Python/Tkinter Geometry Calculator using ttkbootstrap :triangular_ruler:
 - More Coming Soon :blue_heart:
 <br>
 
