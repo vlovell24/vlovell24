@@ -1,4 +1,4 @@
-## :purple_heart: Valerie Lovell :purple_heart:
+## :purple_heart: Valerie Rackley :purple_heart:
 Experienced in Python, JS, and creating desktop applications that help people get stuff done! :boom:
 
 ## Skills
